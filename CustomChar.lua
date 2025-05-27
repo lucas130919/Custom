@@ -20,7 +20,7 @@ local Tabela = {
 		["Yori"]	=		{Permission = {3774843185,1193912295}},
 		["Meliodas"]	=	        {Permission = {3774843185,1193912295}},
 		["Goku"]	=		{Tier = 1,Permission = {3774843185,1193912295}},
-		["TOP"]	=			{Tier = 20000,Permission = {3774843185,1193912295}},
+		["TOP"]	=			{Tier = 20000,Permission = {3774843185}},
 		["Giorno"] = 		        {Tier = 1050,Permission = {3774843185,1193912295}},
 		["Hakaishin"] = 	        {Tier = 20000,Permission = {3774843185}},
 		["Boss"] = 			{Tier = 20000,Permission = {785068132,36651812,7648333286}},
