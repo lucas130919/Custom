@@ -25,7 +25,7 @@ local Tabela = {
 		["Hakaishin"] = 	        {Tier = 20000,Permission = {3774843185,1193912295}},
 		["Boss"] = 			{Tier = 20000,Permission = {785068132,36651812,7648333286}},
 		["JP6"] = 			{Tier = 1,Permission = {3774843185,1193912295}},
-		["Gojo"] = 			{Tier = 1,Permission = {3774843185,1193912295}}, -- perm temp
+		["Gojo"] = 			{Tier = 1,Permission = {3774843185,1193912295,7237606225}}, -- perm temp
 		["Eren"] = 			{Tier = 1,Permission = {3774843185,1193912295}}, -- adicionado conforme solicitado
 	}
 }
