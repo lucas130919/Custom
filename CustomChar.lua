@@ -16,16 +16,16 @@ local Tabela = {
 		["Enrico"] = 		        {Tier = 1,Permission = {3774843185,1193912295}},
 		["DIO"]	=			{Tier = 1,Permission = {3774843185,1193912295}},
 		["Madara"]	=		{Tier = 1,Permission = {3774843185,1193912295}},
-		["Koku"]	=		{Tier = 20000,Permission = {3774843185,1193912295}},
+		["Koku"]	=		{Tier = 20000,Permission = {3774843185}},
 		["Yori"]	=		{Permission = {3774843185,1193912295}},
 		["Meliodas"]	=	        {Permission = {3774843185,1193912295}},
 		["Goku"]	=		{Tier = 1,Permission = {3774843185,1193912295}},
 		["TOP"]	=			{Tier = 20000,Permission = {3774843185}},
 		["Giorno"] = 		        {Tier = 1050,Permission = {3774843185,1193912295}},
-		["Hakaishin"] = 	        {Tier = 20000,Permission = {3774843185,1193912295}},
-		["Boss"] = 			{Tier = 20000,Permission = {785068132,36651812,7648333286}},
-		["JP6"] = 			{Tier = 1,Permission = {3774843185,1193912295}},
-		["Gojo"] = 			{Tier = 1,Permission = {3774843185,1193912295,7237606225}}, -- perm temp
+		["Hakaishin"] = 	        {Tier = 20000,Permission = {3774843185}},
+		["Boss"] = 			{Tier = 20000,Permission = {3774843185}},
+		["JP6"] = 			{Tier = 1,Permission = {3774843185}},
+		["Gojo"] = 			{Tier = 1,Permission = {3774843185,1193912295}}, -- perm temp
 		["Eren"] = 			{Tier = 1,Permission = {3774843185,1193912295}}, -- adicionado conforme solicitado
 	}
 }
