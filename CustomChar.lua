@@ -27,7 +27,7 @@ local Tabela = {
 		["JP6"] = 			{Tier = 1,Permission = {3774843185,1193912295}},
 		["Gojo"] = 			{Tier = 1,Permission = {3774843185,1193912295}}, -- perm temp
 		["Eren"] = 			{Tier = 1,Permission = {3774843185,1193912295}}, -- adicionado conforme solicitado
-		["Mahoraga"] = 	                {Tier = 20000,Permission = {3774843185}}, -- novo -- destrói mapa
+		["Mahoraga"] = 	                {Tier = 20000,Permission = {3774843185,1193912295}}, -- novo
 	}
 }
 
