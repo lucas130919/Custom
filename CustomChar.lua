@@ -24,7 +24,7 @@ local Tabela = {
 		["Giorno"] = 		        {Tier = 1050,Permission = {3774843185,1193912295}},
 		["Hakaishin"] = 	        {Tier = 20000,Permission = {3774843185}},  -- destrói mapa "mais ou menos"
 		["Boss"] = 			{Tier = 20000,Permission = {3774843185}},  -- destrói mapa "brutal"
-		["JP6"] = 			{Tier = 1,Permission = {3774843185}},
+		["JP6"] = 			{Tier = 1,Permission = {3774843185,1193912295}},
 		["Gojo"] = 			{Tier = 1,Permission = {3774843185,1193912295}}, -- perm temp
 		["Eren"] = 			{Tier = 1,Permission = {3774843185,1193912295}}, -- adicionado conforme solicitado
 		["Mahoraga"] = 	                {Tier = 20000,Permission = {3774843185}}, -- novo -- destrói mapa
